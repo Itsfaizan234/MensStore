@@ -1,0 +1,6 @@
+{
+  "name": "Aurelius Atelier — Horology & Sartorial Menswear",
+  "description": "Luxury watches, tailored menswear, bridle leather wallets, accessories, and artisanal fragrances with local cart persistence and printable invoices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
